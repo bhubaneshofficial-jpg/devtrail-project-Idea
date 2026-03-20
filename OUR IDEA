@@ -1,0 +1,28 @@
+AI-Powered Fraud Prevention & Trust System
+Delivery Partner Trust & Fraud Detection Workflow
+Delivery platforms today face serious fraud problems such as fake GPS locations, multiple account
+misuse, and cloned applications. In many cases, a single user can act as multiple delivery partners
+at the same time and generate fake earnings. This leads to financial losses and can even damage
+the reliability of the platform. To solve this issue, we propose an AI-powered system that checks
+multiple signals together instead of depending on only one factor like GPS.
+The system works through multiple layers to ensure accurate detection. First, it checks device
+integrity by identifying fake GPS usage, emulator devices, rooted phones, and cloned apps. Next, it
+uses behavioral AI to study patterns like speed, delivery routes, and working hours. Unusual
+patterns such as unrealistic movement, repeated loops, or continuous 24/7 activity are flagged. It
+also detects multiple accounts operated from the same device by analyzing device fingerprints and
+usage similarity.
+Based on all these inputs, a Trust Score is assigned to each user between 0 and 100. A high score
+allows normal activity, a medium score leads to monitoring, a low score results in restrictions, and a
+very low score triggers verification. This scoring system ensures that decisions are fair and based
+on multiple factors rather than a single mistake.
+To protect genuine users, the system follows a fairness-based approach. Instead of banning users
+immediately, it applies gradual actions such as monitoring, restricting, and then verifying. It also
+considers real-world problems like poor network connectivity, GPS errors, and device limitations,
+reducing false positives.
+Key Features of the System:
+• Multi-layered fraud detection ensures higher accuracy.
+• AI-based behavioral analysis detects patterns that tools cannot hide.
+• Trust score system provides transparent and fair decision-making.
+• Strong protection against coordinated fraud attacks.
+• Fairness layer prevents genuine users from being wrongly penalized.
+• Scalable design suitable for large delivery platforms
